@@ -17,8 +17,7 @@
     "socket.io": "^4.4.1",
     "socket.io-client": "^4.4.1",
     "uuid": "^8.3.2",
-    "web-vitals": "^2.1.4",
-    "node": "16.14.2"
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start:front": "react-scripts start",
@@ -49,5 +48,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "engines": {
+    "node": "16.14.2"
   }
 }
